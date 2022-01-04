@@ -8,5 +8,5 @@ resources:
     properties:
       key_name: Firewall
       networks: flat-lan-1-net
-      image: bionic-server
+      image: 21bbeb0f-c3bb-41e8-9939-7dbabdef2e84
       flavor: m1.medium

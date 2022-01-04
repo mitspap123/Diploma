@@ -7,7 +7,6 @@ resources:
     type: OS::Nova::Server
     properties:
       key_name: Firewall
-      networks:
-        - network: flat-lan-1-net
+      networks: flat-lan-1-net
       image: bionic-server
       flavor: m1.medium

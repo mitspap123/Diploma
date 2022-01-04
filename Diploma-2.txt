@@ -1,0 +1,18 @@
+cd /var/Nova Logs
+Nova Compute Logs
+
+Timestamp UUID of VM.
+
+Python Scripting inside OpenStack to create Instances.
+
+
+Πειραματικό μέρος:
+
+Από 2 endpoints να μπορώ να στείλω αρκετά αιτηματα Curl.
+
+Threshold: OpenStack Client για να τεστάρουμε το Scalability.
+
+Στην ανάγκη του Scaling να γίνεται Trigger για κάποιο καινούργιο Instance.
+
+
+
